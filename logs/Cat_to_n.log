@@ -1,0 +1,75 @@
+2025-12-24 12:40:21,509 - INFO - Index(['Rented_OwnHouse', 'Occupation', 'Education', 'Gender_Male',
+       'Region_East', 'Region_North', 'Region_South', 'Region_West'],
+      dtype='object')
+2025-12-24 12:40:21,528 - INFO -        Rented_OwnHouse   Occupation     Education  Gender_Male  Region_East  Region_North  Region_South  Region_West
+24255           Rented     Self_Emp  Professional          1.0          0.0           0.0           1.0          0.0
+105324        Ownhouse     Officer2  Professional          0.0          0.0           0.0           0.0          0.0
+118626          Rented     Self_Emp  Professional          1.0          0.0           0.0           0.0          0.0
+49693         Ownhouse     Self_Emp        Matric          1.0          0.0           0.0           1.0          0.0
+115744        Ownhouse     Self_Emp           PhD          0.0          0.0           0.0           1.0          0.0
+99091           Rented  Non-officer      Graduate          1.0          0.0           0.0           0.0          1.0
+31240         Ownhouse     Self_Emp     Post-Grad          0.0          0.0           1.0           0.0          0.0
+36983           Rented  Non-officer  Professional          1.0          0.0           0.0           0.0          1.0
+51829         Ownhouse     Officer3     Post-Grad          0.0          0.0           1.0           0.0          0.0
+50662           Rented  Non-officer  Professional          0.0          0.0           0.0           0.0          0.0
+2025-12-24 12:40:21,528 - INFO - Index(['Rented_OwnHouse', 'Occupation', 'Education', 'Gender_Male',
+       'Region_East', 'Region_North', 'Region_South', 'Region_West'],
+      dtype='object')
+2025-12-24 12:40:21,537 - INFO -       Rented_OwnHouse   Occupation     Education  Gender_Male  Region_East  Region_North  Region_South  Region_West
+20596        Ownhouse     Self_Emp        Matric          1.0          0.0           0.0           1.0          0.0
+16320          Rented  Non-officer  Professional          1.0          0.0           0.0           0.0          0.0
+16553        Ownhouse  Non-officer  Professional          1.0          0.0           0.0           0.0          1.0
+3931           Rented     Officer2  Professional          1.0          0.0           0.0           0.0          1.0
+6589         Ownhouse  Non-officer  Professional          1.0          0.0           0.0           0.0          0.0
+2846         Ownhouse     Officer1     Post-Grad          1.0          0.0           1.0           0.0          0.0
+5607         Ownhouse  Non-officer  Professional          1.0          0.0           0.0           0.0          0.0
+19906        Ownhouse     Self_Emp  Professional          1.0          0.0           0.0           0.0          0.0
+19112          Rented  Non-officer  Professional          1.0          0.0           0.0           1.0          0.0
+27031          Rented     Officer2  Professional          1.0          1.0           0.0           0.0          0.0
+2025-12-24 12:40:21,538 - INFO - ================Odinal Encoding==========================
+2025-12-24 12:40:21,678 - INFO - Index(['Gender_Male', 'Region_East', 'Region_North', 'Region_South',
+       'Region_West', 'Rented_OwnHouse_Od', 'Occupation_Od', 'Education_Od'],
+      dtype='object')
+2025-12-24 12:40:21,707 - INFO -         Gender_Male  Region_East  Region_North  Region_South  Region_West  Rented_OwnHouse_Od  Occupation_Od  Education_Od
+27359           0.0          0.0           1.0           0.0          0.0                 1.0            3.0           3.0
+25002           1.0          0.0           0.0           1.0          0.0                 0.0            4.0           2.0
+87220           1.0          0.0           1.0           0.0          0.0                 1.0            0.0           0.0
+89407           1.0          0.0           0.0           0.0          1.0                 1.0            0.0           0.0
+6907            1.0          0.0           0.0           0.0          0.0                 1.0            4.0           0.0
+84626           1.0          0.0           1.0           0.0          0.0                 1.0            0.0           0.0
+49690           1.0          0.0           0.0           0.0          1.0                 1.0            4.0           4.0
+86786           1.0          0.0           0.0           0.0          0.0                 0.0            4.0           4.0
+28816           0.0          1.0           0.0           0.0          0.0                 1.0            4.0           3.0
+110774          1.0          0.0           1.0           0.0          0.0                 0.0            4.0           0.0
+2025-12-24 12:40:21,708 - INFO - Index(['Gender_Male', 'Region_East', 'Region_North', 'Region_South',
+       'Region_West', 'Rented_OwnHouse_Od', 'Occupation_Od', 'Education_Od'],
+      dtype='object')
+2025-12-24 12:40:21,728 - INFO -        Gender_Male  Region_East  Region_North  Region_South  Region_West  Rented_OwnHouse_Od  Occupation_Od  Education_Od
+28583          0.0          0.0           0.0           0.0          0.0                 1.0            0.0           0.0
+17012          1.0          0.0           0.0           0.0          0.0                 1.0            4.0           4.0
+7048           1.0          0.0           1.0           0.0          0.0                 0.0            0.0           0.0
+28860          1.0          0.0           1.0           0.0          0.0                 0.0            0.0           0.0
+19063          1.0          0.0           1.0           0.0          0.0                 0.0            3.0           3.0
+4734           1.0          0.0           0.0           0.0          0.0                 0.0            0.0           0.0
+72             0.0          0.0           1.0           0.0          0.0                 0.0            4.0           1.0
+27158          1.0          0.0           1.0           0.0          0.0                 0.0            3.0           3.0
+5999           1.0          0.0           0.0           0.0          1.0                 0.0            4.0           1.0
+27219          1.0          0.0           0.0           1.0          0.0                 0.0            4.0           1.0
+2025-12-24 12:40:21,733 - INFO - Gender_Male           0
+Region_East           0
+Region_North          0
+Region_South          0
+Region_West           0
+Rented_OwnHouse_Od    0
+Occupation_Od         0
+Education_Od          0
+dtype: int64
+2025-12-24 12:40:21,735 - INFO - Gender_Male           0
+Region_East           0
+Region_North          0
+Region_South          0
+Region_West           0
+Rented_OwnHouse_Od    0
+Occupation_Od         0
+Education_Od          0
+dtype: int64

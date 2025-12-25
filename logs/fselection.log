@@ -1,0 +1,28 @@
+2025-12-24 12:40:20,844 - INFO - columns before constant techniqueIndex(['NPA Status_yeo_trim', 'RevolvingUtilizationOfUnsecuredLines_yeo_trim',
+       'age_yeo_trim', 'NumberOfTime30-59DaysPastDueNotWorse_yeo_trim',
+       'DebtRatio_yeo_trim', 'NumberOfOpenCreditLinesAndLoans_yeo_trim',
+       'NumberOfTimes90DaysLate_yeo_trim',
+       'NumberRealEstateLoansOrLines_yeo_trim',
+       'NumberOfTime60-89DaysPastDueNotWorse_yeo_trim',
+       'MonthlyIncome_replaced_yeo_trim',
+       'NumberOfDependents_replaced_yeo_trim'],
+      dtype='object') -> (120000, 11) -> (30000, 11)
+2025-12-24 12:40:20,877 - INFO - columns after constant techniqueIndex(['RevolvingUtilizationOfUnsecuredLines_yeo_trim', 'age_yeo_trim',
+       'DebtRatio_yeo_trim', 'NumberOfOpenCreditLinesAndLoans_yeo_trim',
+       'NumberRealEstateLoansOrLines_yeo_trim',
+       'MonthlyIncome_replaced_yeo_trim',
+       'NumberOfDependents_replaced_yeo_trim'],
+      dtype='object') -> (120000, 7) -> (30000, 7)
+2025-12-24 12:40:20,877 - INFO - =========================================================
+2025-12-24 12:40:20,877 - INFO - columns before Quasi constant techniqueIndex(['RevolvingUtilizationOfUnsecuredLines_yeo_trim', 'age_yeo_trim',
+       'DebtRatio_yeo_trim', 'NumberOfOpenCreditLinesAndLoans_yeo_trim',
+       'NumberRealEstateLoansOrLines_yeo_trim',
+       'MonthlyIncome_replaced_yeo_trim',
+       'NumberOfDependents_replaced_yeo_trim'],
+      dtype='object') -> (120000, 7) -> (30000, 7)
+2025-12-24 12:40:20,891 - INFO - columns after Quasi constant techniqueIndex(['age_yeo_trim', 'DebtRatio_yeo_trim',
+       'NumberOfOpenCreditLinesAndLoans_yeo_trim',
+       'NumberRealEstateLoansOrLines_yeo_trim',
+       'MonthlyIncome_replaced_yeo_trim'],
+      dtype='object') -> (120000, 5) -> (30000, 5)
+2025-12-24 12:40:20,891 - INFO - ===============================================================

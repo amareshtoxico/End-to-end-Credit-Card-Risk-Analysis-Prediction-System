@@ -1,0 +1,38 @@
+2025-12-24 12:40:18,968 - INFO - Before Filling Null values Training data: (120000, 16)
+2025-12-24 12:40:18,968 - INFO - Before Filling Null values Testing data: (30000, 16)
+2025-12-24 12:40:19,128 - INFO - After Filling Null values : (120000, 16)
+2025-12-24 12:40:19,128 - INFO - After Filling Null values : (30000, 16)
+2025-12-24 12:40:19,154 - INFO - Training data null values : NPA Status                              0
+RevolvingUtilizationOfUnsecuredLines    0
+age                                     0
+Gender                                  0
+Region                                  0
+Rented_OwnHouse                         0
+Occupation                              0
+Education                               0
+NumberOfTime30-59DaysPastDueNotWorse    0
+DebtRatio                               0
+NumberOfOpenCreditLinesAndLoans         0
+NumberOfTimes90DaysLate                 0
+NumberRealEstateLoansOrLines            0
+NumberOfTime60-89DaysPastDueNotWorse    0
+MonthlyIncome_replaced                  0
+NumberOfDependents_replaced             0
+dtype: int64
+2025-12-24 12:40:19,160 - INFO - testing data null values : NPA Status                              0
+RevolvingUtilizationOfUnsecuredLines    0
+age                                     0
+Gender                                  0
+Region                                  0
+Rented_OwnHouse                         0
+Occupation                              0
+Education                               0
+NumberOfTime30-59DaysPastDueNotWorse    0
+DebtRatio                               0
+NumberOfOpenCreditLinesAndLoans         0
+NumberOfTimes90DaysLate                 0
+NumberRealEstateLoansOrLines            0
+NumberOfTime60-89DaysPastDueNotWorse    0
+MonthlyIncome_replaced                  0
+NumberOfDependents_replaced             0
+dtype: int64

@@ -1,0 +1,7 @@
+2025-12-24 12:40:20,618 - INFO - Index(['NPA Status_yeo', 'RevolvingUtilizationOfUnsecuredLines_yeo', 'age_yeo',
+       'NumberOfTime30-59DaysPastDueNotWorse_yeo', 'DebtRatio_yeo',
+       'NumberOfOpenCreditLinesAndLoans_yeo', 'NumberOfTimes90DaysLate_yeo',
+       'NumberRealEstateLoansOrLines_yeo',
+       'NumberOfTime60-89DaysPastDueNotWorse_yeo',
+       'MonthlyIncome_replaced_yeo', 'NumberOfDependents_replaced_yeo'],
+      dtype='object')
