@@ -1,8 +1,6 @@
 
-
----
-
-📌 Credit Card Risk Analysis & Prediction System
+# Credit Card Risk Analysis & Prediction System
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-success?style=for-the-badge&logo=render)](https://end-to-end-credit-card-risk-analysis.onrender.com)
 
 🧠 Project Overview
 
